@@ -1,4 +1,5 @@
-{
+
+  {
   "name": "js-express",
   "version": "1.0.0",
   "description": "Написать REST API для работы с коллекцией контактов. Для работы с REST API используй Postman.",
@@ -25,4 +26,4 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
-}
+  }
